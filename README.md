@@ -2,7 +2,7 @@
 
 # I am Filip Suvajac
 
-Studying Computer science at FERI Maribor focused on full-stack development, backend logic, authentication, and database-driven applications. Almost everything from A to Z.
+Studying Computer science at FERI Maribor focused on full-stack development, backend logic, authentication, and database-driven applications.
 
 ## Tech Stack
 
