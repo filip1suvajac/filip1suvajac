@@ -26,4 +26,5 @@ Very simple Native social app with authentication, user profiles, image uploads,
 ## Contact
 
 Email: filipsuvajac906@gmail.com
+
 GitHub: github.com/filip1suvajac
