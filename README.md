@@ -21,7 +21,7 @@ LMS-style learning platform with Node.js, Express, MySQL, JWT authentication, ti
 Health appointment management app with login, appointment CRUD, calendar view, and patient profile workflows.
 
 ### SnapNest
-Very simple Native social app with authentication, user profiles, image uploads, comments, likes/dislikes, and persistent data.
+React Native social app with authentication, user profiles, image uploads, comments, likes/dislikes, and persistent data.
 
 ## Contact
 
