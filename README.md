@@ -14,7 +14,7 @@ JavaScript, TypeScript, Node.js, Express, MySQL, SQLite, React, React Native, Ne
 Leading the development of FlySight, a digital twin platform for visualizing and analyzing bird wildlife data in Slovenia.
 Working with: React, Node.js / Express, PostgreSQL, Kotlin / Jetpack Compose, Docker, Nginx, Azure VM, Custom CityInfra DSL, GeoJSON
 
-### CoursePulse
+### quizzler
 LMS-style learning platform with Node.js, Express, MySQL, JWT authentication, timed quizzes, server-side scoring, and progress tracking.
 
 ### HealHub
